@@ -1,6 +1,5 @@
 
-#OIF - Overlay Image Format
-
+# OIF - Overlay Image Format
 
 The Overlay Image Format (OIF) was created because of the need for an
 image format that could be used to send overlay data over a network.
